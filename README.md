@@ -7,7 +7,7 @@
 # 1. Crie um código que apresente uma herança.
 
 
-
+'''
 public class Animal
 {
     public String Terrestres;
@@ -19,14 +19,14 @@ public class Animal
 {
     public int ComPelo;
 }
-
+'''
 
 
 # 2. Crie um código que apresente uma implementação de interface.
 
 
 
-
+'''
 public interface Animal {
 
     public String Tipo();
@@ -64,14 +64,14 @@ public class Animal implements Animal,Terrestres {
     }
 
 }
-
+'''
 
 
 # 3. Crie um código que apresente uma sobrecarga de método.
 
 
 
-
+'''
 public class calculadora {
     public int soma(int a, int b) {
         return a + b;
@@ -85,7 +85,7 @@ public class calculadora {
         return a + b;
     }
 } 
-
+'''
 
 
 
@@ -93,7 +93,7 @@ public class calculadora {
 
 
 
-
+'''
 public class Sistema {
 
     Pessoa pessoa = new Pessoa();
@@ -103,6 +103,6 @@ public class Sistema {
 public class Pessoa {
 
 }
-
+'''
 
 5. Apresente os códigos dos exercícios anteriores em um diagrama de classes da UML.
